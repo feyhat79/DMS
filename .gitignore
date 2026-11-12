@@ -1,0 +1,8 @@
+# Standardmäßig ALLE lokalen Dateien ignorieren (maximaler Datenschutz!)
+# So können CSV-Dateien, Fotos, Backups oder Passwörter niemals versehentlich hochgeladen werden.
+*
+
+# NUR diese Dateien für das öffentliche GitHub-Pages-Repository freigeben:
+!.gitignore
+!.nojekyll
+!index.html
